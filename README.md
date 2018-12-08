@@ -14,5 +14,5 @@ hello world
 
 
 <script>var _QTT = {token: "<your mixpanel token>"};</script>
-<script src="https://rawgit.com/evalphobia/qiita-team-tracker/master/tracker.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/evalphobia/qiita-team-tracker/tracker.js"></script>
 ```
